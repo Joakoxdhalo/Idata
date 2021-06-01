@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adf-TallerData"
+		},
+		"AzureTableStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
